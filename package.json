@@ -1,0 +1,17 @@
+{
+  "name": "server-node",
+  "version": "1.0.0",
+  "description": "O pass.in é uma aplicação de **gestão de participantes em eventos presenciais**.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch src/server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.5",
+    "tsx": "^4.7.2",
+    "typescript": "^5.4.4"
+  }
+}
