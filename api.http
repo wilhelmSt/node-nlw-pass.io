@@ -6,3 +6,13 @@ Content-Type: application/json
 	"details": "A event for those who're in loved with programing.",
 	"maximumAttendees": 100
 }
+
+###
+
+POST http://localhost:3000/register-for-event/6582a6df-f694-4c89-ac9d-b10585d06891/attendees
+Content-Type: application/json
+
+{
+	"name": "wilhelm Steins",
+	"email": "wilhelmsteins@gmail.com"
+}
