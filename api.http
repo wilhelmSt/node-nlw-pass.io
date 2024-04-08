@@ -3,6 +3,6 @@ Content-Type: application/json
 
 {
 	"title": "Unite Submit",
-	"description": "A event for those who're in loved with programing.",
+	"details": "A event for those who're in loved with programing.",
 	"maximumAttendees": 100
 }
